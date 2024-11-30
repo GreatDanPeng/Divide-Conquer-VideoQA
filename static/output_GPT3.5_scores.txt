@@ -1,0 +1,89 @@
+Final CI Scores:
+60_overlap_segments: 2.56
+60_overlap_summary: 2.85
+45_overlap_segments: 2.45
+45_overlap_summary: 3.08
+15_overlap_segments: 2.63
+15_overlap_summary: 2.96
+15_segments: 2.88
+15_summary: 2.74
+45_segments: 2.66
+45_summary: 2.51
+60_segments: 2.65
+60_summary: 2.64
+30_overlap_segments: 3.02
+30_overlap_summary: 3.08
+30_segments: 2.62
+30_summary: 2.66
+
+Final DO Scores:
+30_overlap_summary: 2.99
+30_overlap_segments: 2.84
+60_summary: 2.57
+60_segments: 2.49
+15_overlap_summary: 2.66
+15_overlap_segments: 2.73
+45_summary: 2.61
+45_segments: 2.46
+30_summary: 2.78
+30_segments: 2.74
+45_overlap_summary: 2.84
+45_overlap_segments: 2.48
+60_overlap_summary: 2.69
+60_overlap_segments: 2.41
+15_summary: 2.72
+15_segments: 2.71
+
+Final CU Scores:
+30_overlap_summary: 3.00
+30_overlap_segments: 2.87
+60_summary: 2.61
+60_segments: 2.55
+15_overlap_summary: 2.68
+15_overlap_segments: 2.76
+45_summary: 2.66
+45_segments: 2.53
+30_summary: 2.83
+30_segments: 2.63
+45_overlap_summary: 2.83
+45_overlap_segments: 2.54
+60_overlap_summary: 2.64
+60_overlap_segments: 2.49
+15_summary: 2.73
+15_segments: 2.94
+
+Final TU Scores:
+60_overlap_segments: 2.42
+60_overlap_summary: 2.55
+45_overlap_segments: 2.47
+45_overlap_summary: 2.85
+15_overlap_segments: 2.66
+15_overlap_summary: 2.75
+15_segments: 3.06
+15_summary: 2.68
+45_segments: 2.57
+45_summary: 2.63
+60_segments: 2.53
+60_summary: 2.61
+30_overlap_segments: 2.79
+30_overlap_summary: 3.02
+30_segments: 2.61
+30_summary: 2.71
+
+Final CO Scores:
+60_overlap_segments: 2.40
+60_overlap_summary: 2.52
+45_overlap_segments: 2.47
+45_overlap_summary: 2.58
+15_overlap_segments: 2.61
+15_overlap_summary: 2.64
+15_segments: 2.76
+15_summary: 2.55
+45_segments: 2.44
+45_summary: 2.47
+60_segments: 2.48
+60_summary: 2.45
+30_overlap_segments: 2.76
+30_overlap_summary: 2.89
+30_segments: 2.65
+30_summary: 2.64
