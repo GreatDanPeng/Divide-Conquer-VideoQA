@@ -1,0 +1,5 @@
+Average CI Score: 0.62
+Average DO Score: 0.64
+Average CU Score: 0.64
+Average TU Score: 0.67
+Average CO Score: 0.61
