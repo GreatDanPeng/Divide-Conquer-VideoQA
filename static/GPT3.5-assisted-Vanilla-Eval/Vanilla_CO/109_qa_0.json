@@ -1,1 +1,1 @@
-{"question": "Do more than 5 people appear in the video?", "correct_answer": "No.", "predicted_answer": "N/A", "predicted_answer2": "N/A", "score": 5}
+{"question": "Do more than 5 people appear in the video?", "correct_answer": "No.", "predicted_answer": "Yes, there are more than 5 people in the video. There are at least 8 characters present in the video, and some of them interact with each other, so there could be more people present but only 5 or fewer are visible at any given time.", "predicted_answer2": "Yes, more than 5 people appear in the video.", "score": 2}
